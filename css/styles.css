@@ -1,5 +1,11 @@
+*{
+  font-family: monospace;
+  background-color: #000;
+  color: #fff;
+}
+
 h1 {
-  color: blue;
+  color: #00f;
 }
  h2 {
    font-style: italic;
@@ -11,5 +17,6 @@ h1 {
  }
 
  ul {
-   font-size: 3rem;
+   font-size: 20px;
+   line-height: 30px;
  }
