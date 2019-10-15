@@ -1,4 +1,4 @@
-# _{Favorite Website}_
+# _Favorite Website_
 
 #### _List of favorite things in basic HTML, 10.14.19_
 
