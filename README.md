@@ -14,7 +14,7 @@ _A website using basic HTML to list favorite things_
 
 ## Known Bugs
 
-_No known bugs _
+_No known bugs_
 
 ## Support and contact details
 
